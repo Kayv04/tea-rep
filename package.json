@@ -1,0 +1,25 @@
+{
+  "name": "tea-rep",
+  "version": "1.0.0",
+  "description": "Initial tea project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kayv04/tea-rep.git"
+  },
+  "dependencies": {
+    "tea-serg": "1.0.0",
+    "tea-onef": "1.0.0",
+    "tea-kasy": "1.0.0",
+    "tea-start": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kayv04/tea-rep/issues"
+  },
+  "homepage": "https://github.com/Kayv04/tea-rep#readme"
+}
