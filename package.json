@@ -1,6 +1,6 @@
 {
   "name": "tea-rep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Initial tea project",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kayv04/tea-rep.git"
+    "url": "https://github.com/Kayv04/tea-rep.git"
   },
   "dependencies": {
     "tea-serg": "1.0.0",
